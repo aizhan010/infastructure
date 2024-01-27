@@ -23,3 +23,5 @@ resource "aws_instance" "web" {
     managed_by = "terraform"
   }
 }
+
+
